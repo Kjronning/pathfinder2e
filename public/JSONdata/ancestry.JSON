@@ -1,0 +1,122 @@
+{
+  "Source": "Second Edition Core Rulebook",
+  "Ancestries": [
+    {
+      "ancestry": "Dwarf",
+      "heritages": [
+        {
+          "name": "Ancient-Blooded Dwarf"
+        },
+        {
+          "name": "Death Warden Dwarf"
+        },
+        {
+          "name": "Forge Dwarf"
+        },
+        {
+          "name": "Rock Dwarf"
+        },
+        {
+          "name": "Strong-Blooded Dwarf"
+        }
+      ]
+    },
+    {
+      "ancestry": "Elf",
+      "heritages": [
+        {
+          "name": "Arctic Elf"
+        },
+        {
+          "name": "Cavern Elf"
+        },
+        {
+          "name": "Seer Elf"
+        },
+        {
+          "name": "Whisper Elf"
+        },
+        {
+          "name": "Woodland Elf"
+        }
+      ]
+    },
+    {
+      "ancestry": "Gnome",
+      "heritages": [
+        {
+          "name": "Chameleon Gnome"
+        },
+        {
+          "name": "Fey-Touched Gnome"
+        },
+        {
+          "name": "Sensate Gnome"
+        },
+        {
+          "name": "Umbral Gnome"
+        },
+        {
+          "name": "WellSpring Gnome"
+        }
+      ]
+    },
+    {
+      "ancestry": "Goblin",
+      "heritages": [
+        {
+          "name": "Charhide Goblin"
+        },
+        {
+          "name": "Irongut Goblin"
+        },
+        {
+          "name": "Razortooth Goblin"
+        },
+        {
+          "name": "Snow Goblin"
+        },
+        {
+          "name": "Unbreakable Goblin"
+        }
+      ]
+    },
+    {
+      "ancestry": "Halfling",
+      "heritages": [
+        {
+          "name": "Gutsy Halfling"
+        },
+        {
+          "name": "Hillock Halfling"
+        },
+        {
+          "name": "Monadic Halfling"
+        },
+        {
+          "name": "Twilight Halfling"
+        },
+        {
+          "name": "Wildwood Halfling"
+        }
+      ]
+    },
+    {
+      "ancestry": "Human",
+      "heritages": [
+        {
+          "name": "Half-Elf"
+        },
+        {
+          "name": "Half-Orc"
+        },
+        {
+          "name": "Skilled Heritage"
+        },
+        {
+          "name": "Versatile Heritage"
+        }
+      ]
+    }
+  ]
+}
