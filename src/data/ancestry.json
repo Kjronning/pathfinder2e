@@ -1,6 +1,6 @@
 [
   {
-      "ancestry": "Dwarf",
+      "name": "Dwarf",
       "heritages": [
         {
           "name": "Ancient-Blooded Dwarf"
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "ancestry": "Elf",
+      "name": "Elf",
       "heritages": [
         {
           "name": "Arctic Elf"
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "ancestry": "Gnome",
+      "name": "Gnome",
       "heritages": [
         {
           "name": "Chameleon Gnome"
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "ancestry": "Goblin",
+      "name": "Goblin",
       "heritages": [
         {
           "name": "Charhide Goblin"
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "ancestry": "Halfling",
+      "name": "Halfling",
       "heritages": [
         {
           "name": "Gutsy Halfling"
@@ -100,7 +100,7 @@
       ]
     },
   {
-    "ancestry": "Human",
+    "name": "Human",
     "heritages": [
       {
         "name": "Half-Elf"

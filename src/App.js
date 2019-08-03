@@ -1,6 +1,7 @@
 import React from 'react';
-import AncestryList from './ancestry_list/ancestry-list';
 import './App.css';
+import AncestryList from './ancestry_list/ancestry-list';
+import BackgroundList from "./background-list/background-list";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <p>
             2.- Pick a background.
           </p>
+          <BackgroundList/>
           <p>
             3.- Choose a class.
           </p>
