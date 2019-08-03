@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Acolyte",
+    "attribute_one": "INT",
+    "attribute_two": "WIS",
+    "skill": "Religion",
+    "lore_skill": "Scribing Lore",
+    "feat": "Student of the Canon",
+    "extra_options":[]
+  },
+  {
+    "name": "Acrobat",
+    "attribute_one": "STR",
+    "attribute_two": "DEX",
+    "skill": "Acrobatics",
+    "lore_skill": "Circus Lore",
+    "feat": "Steady Balance",
+    "extra_options":[]
+  },
+  {
+    "name": "Animal Whisperer",
+    "attribute_one": "WIS",
+    "attribute_two": "CHA",
+    "skill": "Nature",
+    "lore_skill": "Terrain Lore",
+    "feat": "Train Animal",
+    "extra_options": [{"lore": "custom"}]
+  },
+  {
+    "name": "Artisan",
+    "attribute_one": "STR",
+    "attribute_two": "INT",
+    "skill": "Crafting",
+    "lore_skill": "Guild Lore",
+    "feat": "Specialty Crafting",
+    "extra_options":[]
+  },
+  {
+    "name": "Artist",
+    "attribute_one": "DEX",
+    "attribute_two": "CHA",
+    "skill": "Crafting",
+    "lore_skill": "Art Lore",
+    "feat": "Specialty Crafting",
+    "extra_options":[]
+  },
+  {
+    "name": "Barkeep",
+    "attribute_one": "CON",
+    "attribute_two": "CHA",
+    "skill": "Diplomacy",
+    "lore_skill": "Alcohol Lore",
+    "feat": "Hobnobber",
+    "extra_options":[]
+  },
+  {
+    "name": "Barrister",
+    "attribute_one": "INT",
+    "attribute_two": "CHA",
+    "skill": "Diplomacy",
+    "lore_skill": "Legal Lore",
+    "feat": "Group Impression",
+    "extra_options":[]
+  },
+  {
+    "name": "Bounty Hunter",
+    "attribute_one": "STR",
+    "attribute_two": "WIS",
+    "skill": "Survival",
+    "lore_skill": "Legal Lore",
+    "feat": "Experienced Tracker",
+    "extra_options":[]
+  },
+  {
+    "name": "Charlatan",
+    "attribute_one": "INT",
+    "attribute_two": "CHA",
+    "skill": "Deception",
+    "lore_skill": "Underworld Lore",
+    "feat": "Charming Liar",
+    "extra_options":[]
+  },
+  {
+    "name": "Criminal",
+    "attribute_one": "DEX",
+    "attribute_two": "INT",
+    "skill": "Stealth",
+    "lore_skill": "Underworld Lore",
+    "feat": "Experienced Smuggler",
+    "extra_options":[]
+  },
+  {
+    "name": "Detective",
+    "attribute_one": "INT",
+    "attribute_two": "WIS",
+    "skill": "Society",
+    "lore_skill": "Underworld Lore",
+    "feat": "Streetwise",
+    "extra_options":[]
+  },
+  {
+    "name": "Emissary",
+    "attribute_one": "INT",
+    "attribute_two": "CHA",
+    "skill": "Society",
+    "lore_skill": "City Lore",
+    "feat": "Multilingual",
+    "extra_options": [{"lore": "custom"}]
+  },
+  {
+    "name": "Entertainer",
+    "attribute_one": "DEX",
+    "attribute_two": "CHA",
+    "skill": "Performance",
+    "lore_skill": "Theater Lore",
+    "feat": "Fascinating Performance",
+    "extra_options":[]
+  },
+  {
+    "name": "Farmhand",
+    "attribute_one": "CON",
+    "attribute_two": "WIS",
+    "skill": "Athletics",
+    "lore_skill": "Farming Lore",
+    "feat": "Assurance",
+    "extra_options": [{"feat_specific": "Athletics"}]
+  },
+  {
+    "name": "Field Medic",
+    "attribute_one": "CON",
+    "attribute_two": "WIS",
+    "skill": "Medicine",
+    "lore_skill": "Warfare Lore",
+    "feat": "Battle Medic",
+    "extra_options":[]
+  },{
+  "name": "Fortune Teller",
+  "attribute_one": "INT",
+  "attribute_two": "CHA",
+  "skill": "Occultism",
+  "lore_skill": "Fortune-Telling Lore",
+  "feat": "Oddity Identification",
+  "extra_options":[]
+},{
+  "name": "Gambler",
+  "attribute_one": "DEX",
+  "attribute_two": "CHA",
+  "skill": "Deception",
+  "lore_skill": "Games Lore",
+  "feat": "Lie to Me",
+  "extra_options":[]
+},{
+  "name": "Gladiator",
+  "attribute_one": "STR",
+  "attribute_two": "CHA",
+  "skill": "Performance",
+  "lore_skill": "Gladiatorial Lore",
+  "feat": "Impressive Performance",
+  "extra_options":[]
+},{
+  "name": "Guard",
+  "attribute_one": "STR",
+  "attribute_two": "CHA",
+  "skill": "Intimidation",
+  "lore_skill": "Legal Lore",
+  "feat": "Quick Coercion",
+  "extra_options":[]
+},{
+  "name": "Herbalist",
+  "attribute_one": "CON",
+  "attribute_two": "WIS",
+  "skill": "Nature",
+  "lore_skill": "Herbalism Lore",
+  "feat": "Natural Medicine",
+  "extra_options":[]
+},{
+  "name": "Hermit",
+  "attribute_one": "CON",
+  "attribute_two": "INT",
+  "skill": "",
+  "lore_skill": "Terrain Lore",
+  "feat": "Dubious Knowledge",
+  "extra_options":[{"skill_selection":  [{"skill": "Nature"},{"skill":"Occultism"}]},{"lore":  "custom"}]
+},{
+  "name": "Hunter",
+  "attribute_one": "DEX",
+  "attribute_two": "WIS",
+  "skill": "Survival",
+  "lore_skill": "Tanning Lore",
+  "feat": "Wildlife",
+  "extra_options":[]
+},{
+  "name": "Laborer",
+  "attribute_one": "STR",
+  "attribute_two": "CON",
+  "skill": "Athletics",
+  "lore_skill": "Labor Lore",
+  "feat": "Hefty Hauler",
+  "extra_options":[{"feat_specific": "Athletics"}]
+},{
+  "name": "Martial Disciple",
+  "attribute_one": "STR",
+  "attribute_two": "DEX",
+  "skill": "",
+  "lore_skill": "Warfare Lore",
+  "feat": "",
+  "extra_options":[{"skill_selection":  [{"skill": "Acrobatics"},{"skill":"Athletics"}]},{"feat_selection": [{"skill":  "Athletics","feat": "Quick Jump"},{"skill": "Acrobatics","feat": "Cat Fall"}]}]
+},{
+  "name": "Merchant",
+  "attribute_one": "INT",
+  "attribute_two": "CHA",
+  "skill": "Diplomacy",
+  "lore_skill": "Mercantile Lore",
+  "feat": "Bargain Hunter",
+  "extra_options":[]
+},{
+  "name": "Miner",
+  "attribute_one": "STR",
+  "attribute_two": "WIS",
+  "skill": "Survival",
+  "lore_skill": "Mining Lore",
+  "feat": "Terrain Expertise",
+  "extra_options":[{"feat_specific": "Underground Terrain"}]
+},{
+  "name": "Noble",
+  "attribute_one": "INT",
+  "attribute_two": "CHA",
+  "skill": "Society",
+  "lore_skill": "",
+  "feat": "Courtly Graces",
+  "extra_options":[{"lore_skill_selection":  [{"skill": "Genealogy Lore"},{"skill": "Heraldry Lore"}]}]
+},{
+  "name": "Nomad",
+  "attribute_one": "CON",
+  "attribute_two": "WIS",
+  "skill": "Survival",
+  "lore_skill": "Terrain Lore",
+  "feat": "Assurance",
+  "extra_options":[{"lore":  "custom"},{"feat_specific":  "Survival"}]
+},{
+  "name": "Prisoner",
+  "attribute_one": "STR",
+  "attribute_two": "CON",
+  "skill": "Stealth",
+  "lore_skill": "Underworld Lore",
+  "feat": "Experienced Smuggler",
+  "extra_options":[]
+},{
+  "name": "Sailor",
+  "attribute_one": "STR",
+  "attribute_two": "DEX",
+  "skill": "Athletics",
+  "lore_skill": "Sailing Lore",
+  "feat": "Underwater Marauder",
+  "extra_options":[]
+},{
+  "name": "Scholar",
+  "attribute_one": "INT",
+  "attribute_two": "WIS",
+  "skill": "",
+  "lore_skill": "Academia Lore",
+  "feat": "Assurance Skill",
+  "extra_options":[{"skill_selection": [{"skill": "Arcana"},{"skill": "Nature"},{"skill": "Occultism"},{"skill": "Religion"}]}]
+},{
+  "name": "Scout",
+  "attribute_one": "DEX",
+  "attribute_two": "WIS",
+  "skill": "Survival",
+  "lore_skill": "Terrain Lore",
+  "feat": "Forager",
+  "extra_options":[{"lore": "custom"}]
+  },{
+  "name": "Street Urchin",
+  "attribute_one": "DEX",
+  "attribute_two": "CON",
+  "skill": "Thievery",
+  "lore_skill": "City Lore",
+  "feat": "Pickpocket",
+  "extra_options":[{"lore": "custom"}]
+},{
+  "name": "Tinker",
+  "attribute_one": "DEX",
+  "attribute_two": "INT",
+  "skill": "Crafting",
+  "lore_skill": "Engineering Lore",
+  "feat": "Specialty Crafting",
+  "extra_options":[]
+},{
+  "name": "Warrior",
+  "attribute_one": "STR",
+  "attribute_two": "CON",
+  "skill": "Intimidation",
+  "lore_skill": "Warfare Lore",
+  "feat": "Intimidating Glare",
+  "extra_options":[]
+}
+]
