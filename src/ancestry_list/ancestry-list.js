@@ -45,8 +45,6 @@ class AncestryList extends Component {
     }
 
     renderHeritageSelect() {
-        if (this.state.ancestry === this.defaultAncestry)
-            return;
         return (
             <div>
             <select value={this.state.heritage} onChange={this.handleHeritageChange}>

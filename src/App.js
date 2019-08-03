@@ -1,5 +1,5 @@
 import React from 'react';
-import AncestryList from './ancestry_list/ancestry_list';
+import AncestryList from './ancestry_list/ancestry-list';
 import './App.css';
 
 function App() {
